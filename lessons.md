@@ -1,5 +1,11 @@
 # Выдержки по курсу из Slack
 
+*6 неделя*
+
+- Статья на Хабре https://habrahabr.ru/company/ods/blog/325422/
+- Видеолекция – про регрессию (продолжение 4-ой темы) https://youtu.be/c_EsDMF3rsI
+- Задание описано тут https://opendatascience.slack.com/archives/C39147V60/p1520609538000543, времени – до 1 апреля, актуальные ссылки на задания: https://goo.gl/F2QorG (Alice) и https://goo.gl/SHJjZc (Medium)
+
 *7 неделя*
 
 - Статья на Хабре https://habrahabr.ru/company/ods/blog/325654/
